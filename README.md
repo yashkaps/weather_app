@@ -17,14 +17,14 @@ The output box displays the name and country of the location, along with a text 
 
 ## Screenshots
 
-![screenshot 1](./screenshots/screenshot1.jpg =250x)
+<img src="./screenshots/screenshot1.jpg" width="250">
 
-![screenshot 2](./screenshots/screenshot2.jpg =250x)
+<img src="./screenshots/screenshot2.jpg" width="250">
 
-![screenshot 3](./screenshots/screenshot3.jpg =250x)
+<img src="./screenshots/screenshot3.jpg" width="250">
 
-![screenshot 4](./screenshots/screenshot4.jpg =250x)
+<img src="./screenshots/screenshot4.jpg" width="250">
 
-![screenshot 5](./screenshots/screenshot5.jpg =250x)
+<img src="./screenshots/screenshot5.jpg" width="250">
 
-![screenshot 6](./screenshots/screenshot6.jpg =250x)
+<img src="./screenshots/screenshot6.jpg" width="250">
