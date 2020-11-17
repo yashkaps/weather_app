@@ -17,14 +17,14 @@ The output box displays the name and country of the location, along with a text 
 
 ## Screenshots
 
-![] (./screenshots/screenshot1.jpg)
+[] (./screenshots/screenshot1.jpg)
 
-![] (./screenshots/screenshot2.jpg)
+[] (./screenshots/screenshot2.jpg)
 
-![] (./screenshots/screenshot3.jpg)
+[] (./screenshots/screenshot3.jpg)
 
-![] (./screenshots/screenshot4.jpg)
+[] (./screenshots/screenshot4.jpg)
 
-![] (./screenshots/screenshot5.jpg)
+[] (./screenshots/screenshot5.jpg)
 
-![] (./screenshots/screenshot6.jpg)
+[] (./screenshots/screenshot6.jpg)
